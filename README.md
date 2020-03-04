@@ -1,2 +1,3 @@
-# Lungs-Segmentation
-lungs segmentation without Mask image uisng Tradinational Computer vision (open-CV)
+Final Result is stored in Result3
+
+and Base image is stored in chest_xray/test/Normal
